@@ -64,8 +64,8 @@ const SyncData = async () => {
 							"Content-Type": "application/x-www-form-urlencoded",
 						},
 						body: new URLSearchParams({
-							client_id: "1128066454768599100",
-							client_secret: "aiZtvYylu-5hiUBCXqKpNhdgs2tGgvU9",
+							client_id: import.meta.env.CLIENT_ID,
+							client_secret: import.meta.env.CLIENT_SECRET,
 							grant_type: "refresh_token",
 							refresh_token: localStorage.getItem("refresh_token"),
 						}),
