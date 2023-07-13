@@ -28,9 +28,9 @@ const Login = async () => {
 		provider: "discord",
 		// redirectUrl:
 		// 	"https://discord.com/api/v10/oauth2/authorize?client_id=1128066454768599100&redirect_uri=http%3A%2F%2F157.245.244.129%2Fapi%2Foauth2-redirect&response_type=code&scope=identify%20email%20connections%20guilds%20guilds.members.read",
-		// createData: {
-		// 	permissions: "member",
-		// },
+		 createData: {
+		  permissions: "member",
+		 },
 	});
 
 	const discordData = await authData.meta.rawUser;
