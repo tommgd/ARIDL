@@ -43,7 +43,7 @@ import { store } from "./main";
 			</div>
 		</nav>
 	</header>
-	<RouterView id="view" :class="{ dark: store.dark }" ></RouterView>
+	<RouterView id="view" :class="{ dark: store.dark }"></RouterView>
 </template>
 
 <style>

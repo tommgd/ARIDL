@@ -19,7 +19,6 @@ const props = defineProps({
 const selfVerified = computed(() => {
 	return props.author === props.verifier && props.creators.length === 0;
 });
-
 </script>
 
 <template>

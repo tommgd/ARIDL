@@ -3,7 +3,6 @@ import { ref, computed, onMounted } from "vue";
 
 import { fetchPacks, fetchPackLevels } from "../content.js";
 import { getFontColour, embed } from "../util.js";
-import { score } from "../score.js";
 import Spinner from "../components/Spinner.vue";
 import LevelAuthors from "../components/LevelAuthors.vue";
 
@@ -58,13 +57,10 @@ onMounted(async () => {
 					@click="switchLevels(i)"
 					v-for="(pack, i) in packs"
 					:key="i"
-					:style="{
-						background: pack.colour,
-						color: getFontColour(pack.colour),
-					}"
+					:style="{background: pack.colour}"
 					class="type-label-lg"
 				>
-					{{ pack.name }}
+					<p>{{ pack.name }}</p>
 				</button>
 			</div>
 		</div>
@@ -81,10 +77,7 @@ onMounted(async () => {
 						<button
 							:style="[
 								selectedLevel == i
-									? {
-											background: pack.colour,
-											color: getFontColour(pack.colour),
-										}
+									? {background: pack.colour}
 									: {},
 							]"
 							@click="selectedLevel = i"
@@ -124,18 +117,6 @@ onMounted(async () => {
 					frameborder="0"
 				></iframe>
 				<ul class="stats">
-					<li>
-						<div class="type-title-sm">Points when completed</div>
-						<p>
-							{{
-								score(
-									selected + 1,
-									100,
-									selectedPackLevels[selectedLevel][0].level.percentToQualify,
-								)
-							}}
-						</p>
-					</li>
 					<li>
 						<div class="type-title-sm">ID</div>
 						<p>{{ selectedPackLevels[selectedLevel][0].level.id }}</p>
@@ -241,6 +222,12 @@ onMounted(async () => {
 	cursor: pointer;
 	flex-shrink: 0;
 	height: 100%;
+	background-size: 100% 100% !important;
+}
+
+.packs-nav button p {
+    mix-blend-mode: difference;
+    color: rgb(128, 128, 128);
 }
 
 .packs-nav > div {

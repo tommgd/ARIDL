@@ -2,7 +2,7 @@
 import { ref, computed, onMounted } from "vue";
 
 import { store } from "../main.js";
-import { embed, getFontColour } from "../util.js";
+import { embed } from "../util.js";
 import { score } from "../score.js";
 import { fetchEditors, fetchList } from "../content.js";
 import Spinner from "../components/Spinner.vue";
@@ -90,12 +90,9 @@ onMounted(async () => {
 						v-for="pack in level.packs"
 						:key="pack.name"
 						class="tag"
-						:style="{
-							background: pack.colour,
-							color: getFontColour(pack.colour),
-						}"
+						:style="{background: pack.colour}"
 					>
-						{{ pack.name }}
+						<p>{{ pack.name }}</p>
 					</div>
 				</div>
 				<iframe
@@ -135,7 +132,9 @@ onMounted(async () => {
 						<td class="mobile">
 							<img
 								v-if="record.mobile"
-								:src="`src/assets/phone-landscape${store.dark ? '-dark' : ''}.svg`"
+								:src="`src/assets/phone-landscape${
+									store.dark ? '-dark' : ''
+								}.svg`"
 								alt="Mobile"
 							/>
 						</td>
@@ -353,6 +352,7 @@ onMounted(async () => {
 .page-list .level-container .level .packs .tag {
 	display: flex;
 	flex-shrink: 0;
+	background-size: 100% 100% !important;
 }
 .page-list .level-container .level .records {
 	table-layout: fixed;
@@ -422,8 +422,8 @@ onMounted(async () => {
 	font-family: "Lexend Deca", sans-serif;
 	display: block;
 	border-radius: 14px;
-	color: white;
-	background-color: #5d5d5d;
 	padding: 7px;
+	mix-blend-mode: difference;
+  color: rgb(128, 128, 128);
 }
 </style>

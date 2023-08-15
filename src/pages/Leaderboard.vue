@@ -229,6 +229,7 @@ onMounted(async () => {
 .page-leaderboard .player .packs .tag {
 	display: flex;
 	flex-shrink: 0;
+	background-size: 100% 100% !important;
 }
 
 .page-leaderboard .player .table .level {
