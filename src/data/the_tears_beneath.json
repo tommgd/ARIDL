@@ -1,0 +1,73 @@
+{
+    "id": 81725236,
+    "name": "The Tears Beneath",
+    "author": "IFFFFFFFFFFFF",
+    "creators": [],
+    "verifier": "IFFFFFFFFFFFF",
+    "verification": "https://youtu.be/-C0fct7Jc6Y",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Bonezizdum",
+            "link": "https://youtu.be/u8UJDt7Dyz0",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+    },
+            {
+                "user": "Shrixy",
+                "link": "https://youtu.be/IbT3TDIdrHo",
+                "percent": 100,
+                "hz": 288
+    },
+    {
+        "user": "HotNooB",
+        "link": "https://youtu.be/o8CPRLtOrHY",
+        "percent": 100,
+        "hz": 360
+},
+        {
+        "user": "Lia",
+        "link": "https://youtu.be/aQfNDZA6FhY",
+        "percent": 100,
+        "hz": 144
+},
+{
+    "user": "Daxylitz",
+    "link": "https://www.youtube.com/watch?v=QHGzDk2Id_s",
+    "percent": 100,
+    "hz": 360
+},
+{
+    "user": "Regnom",
+    "link": "https://www.youtube.com/watch?v=kZJCxB6jYGw&t",
+    "percent": 100,
+    "hz": 144
+},
+{
+    "user": "ddddr",
+    "link": "https://youtu.be/AHk1fHwY_7o",
+    "percent": 100,
+    "hz": 360
+},
+{
+    "user": "Nicoolat",
+    "link": "https://youtu.be/dOCDQKQPiaI",
+    "percent": 100,
+    "hz": 60,
+    "mobile": true
+},
+{
+    "user": "ultracauaHD",
+    "link": "https://www.youtube.com/watch?v=rw6FwrKgq6I",
+    "percent": 100,
+    "hz": 360
+},
+{
+    "user": "Bram4Real",
+    "link": "https://youtu.be/AbyLxlgHk5k",
+    "percent": 100,
+    "hz": 120
+}
+    ]
+}

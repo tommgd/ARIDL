@@ -1,0 +1,36 @@
+{
+    "id": 80647754,
+    "name": "Le Fishe",
+    "author": "PrankOrigami",
+    "creators": [],
+    "verifier": "Sync Jaws",
+    "verification": "https://youtu.be/2DEC2_wpmu4?t=4316",
+    "percentToQualify": 100,
+    "password": "023632",
+    "records": [
+{
+            "user": "baechugimchi",
+            "link": "https://youtu.be/GaocJxiYmpw",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "Wyse",
+            "link": "https://youtu.be/WsEKWtV9zM0",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "Lia",
+            "link": "https://youtu.be/FzlUNsmEuEk",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "Willow",
+            "link": "https://youtu.be/xxYAw7U4f78",
+            "percent": 100,
+            "hz": 360
+}
+    ]
+}

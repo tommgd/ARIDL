@@ -1,0 +1,35 @@
+{
+    "id": 71692057,
+    "name": "Based Gang (2P)",
+    "author": "Alphirox",
+    "creators": ["Alphirox", "Meekah"],
+    "verifier": "GiggsRH",
+    "verification": "https://youtu.be/waS4YTHvG8M",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "ddddr",
+            "link": "https://youtu.be/f1c9Y8fwc2M",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "HotNooB",
+            "link": "https://youtu.be/9xD-rZG5Mps",
+            "percent": 100,
+            "hz": 360
+    },
+{
+    "user": "Hasik",
+    "link": "https://youtu.be/etpVOFL1N7o",
+    "percent": 100,
+    "hz": 360
+},
+{
+    "user": "Vink",
+    "link": "https://youtu.be/v1hxRLAsM0c",
+    "percent": 100,
+    "hz": 360
+}
+    ]
+}

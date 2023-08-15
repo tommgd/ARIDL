@@ -1,0 +1,60 @@
+{
+    "id": 89201076,
+    "name": "Dismal Duststorm",
+    "author": "Multiverse55",
+    "creators": ["Multiverse55"],
+    "verifier": "Multiverse55",
+    "verification": "https://www.youtube.com/watch?v=l-hYBdrM0bc&t=19s",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "BreadGuyGD",
+            "link": "https://www.youtube.com/watch?v=7Z2m0A6RXS8",
+            "percent": 100,
+            "hz": 240
+    },
+    {
+        "user": "HotNooB",
+        "link": "https://youtu.be/jF7LLOdhuxA",
+        "percent": 100,
+        "hz": 360
+},
+{
+    "user": "JDemoX",
+    "link": "https://www.youtube.com/watch?v=jtvD1j3cu1E",
+    "percent": 100,
+    "hz": 144
+},
+{
+    "user": "GDNotAnAWPer2K",
+    "link": "https://youtu.be/Z1kDSSu-sbA",
+    "percent": 100,
+    "hz": 288
+},
+{
+    "user": "Lia",
+    "link": "https://youtu.be/jHCYyRwMPWg",
+    "percent": 100,
+    "hz": 360
+},
+{
+    "user": "ddddr",
+    "link": "https://youtu.be/smtGNc9Gj7M",
+    "percent": 100,
+    "hz": 360
+},
+{
+    "user": "CatfishGD",
+    "link": "https://www.youtube.com/watch?v=7q0hKhtRn7k",
+    "percent": 100,
+    "hz": 75
+},
+{
+    "user": "ultracauaHD",
+    "link": "https://www.youtube.com/watch?v=26VN0BVHokM",
+    "percent": 100,
+    "hz": 360
+}
+    ]
+
+}

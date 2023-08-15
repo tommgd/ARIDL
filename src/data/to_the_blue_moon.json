@@ -1,0 +1,41 @@
+{
+    "id": 90024795,
+    "name": "To The Blue Moon",
+    "author": "vRidge",
+    "creators": [],
+    "verifier": "MaxVilocity",
+    "verification": "https://www.youtube.com/watch?v=dLYMnRIXPk8",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "ddddr",
+            "link": "https://youtu.be/u7M_sJdo1IU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Bamvie",
+            "link": "https://youtu.be/JjvWh25XCJ8?si=qHXra-mwhscua4-R",
+            "percent": 100,
+            "hz": 360
+    },
+    {
+        "user": "Lia",
+        "link": "https://youtu.be/_oTzzLRwKK8",
+        "percent": 100,
+        "hz": 360
+},
+{
+    "user": "HotNooB",
+    "link": "https://youtu.be/y7MD0ncjFzs",
+    "percent": 100,
+    "hz": 360
+},
+{
+    "user": "Lelzi",
+    "link": "https://youtu.be/7ZMDdPyMlN0",
+    "percent": 100,
+    "hz": 360
+}
+    ]
+}

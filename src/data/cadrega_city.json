@@ -1,0 +1,66 @@
+{
+    "id": 37255449,
+    "name": "Cadrega City",
+    "author": "Pennutoh",
+    "creators": ["Berke423", "Pennutoh"],
+    "verifier": "Sunix",
+    "verification": "https://www.youtube.com/watch?v=cHEGAqOgddA",
+    "percentToQualify": 100,
+    "password": "210317",
+    "records": [
+    {
+            "user": "skycrab",
+            "link": "https://youtu.be/_GDkf-XSpW4",
+            "percent": 100,
+            "hz": 360
+},
+{
+    "user": "LuigiDB",
+    "link": "https://www.youtube.com/watch?v=JX_lQ8mpJMA",
+    "percent": 100,
+    "hz": 144
+},
+        {
+            "user": "piesy",
+            "link": "https://youtu.be/4mQiftM0FmU",
+            "percent": 100,
+            "hz": 240
+},
+{
+    "user": "ddddr",
+    "link": "https://youtu.be/nz4a0JgfanE",
+    "percent": 100,
+    "hz": 144
+},
+{
+    "user": "Dep96",
+    "link": "https://www.youtube.com/watch?v=SKZvIS1ilBQ",
+    "percent": 100,
+    "hz": 360
+},
+{
+    "user": "ultracauaHD",
+    "link": "https://www.youtube.com/watch?v=-C5ytUtqL0k",
+    "percent": 100,
+    "hz": 360
+},
+{
+    "user": "FakeRodri",
+    "link": "https://www.youtube.com/watch?v=bVVVaWrd1xc",
+    "percent": 100,
+    "hz": 330
+},
+{
+    "user": "DarkTD",
+    "link": "https://www.youtube.com/watch?v=rpUb6GqUdEg",
+    "percent": 100,
+    "hz": 360
+},
+{
+    "user": "Lelzi",
+    "link": "https://youtu.be/WcgqLYOJlDo",
+    "percent": 100,
+    "hz": 360
+}
+    ]
+}

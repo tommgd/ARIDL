@@ -1,0 +1,34 @@
+{
+    "id": 91386392,
+    "name": "iridium",
+    "author": "spark",
+    "creators": [],
+    "verifier": "Zeus",
+    "verification": "https://www.youtube.com/watch?v=V2oyvAEJhXU&t=0s",
+    "percentToQualify": 100,
+    "records": [{
+        "user": "HotNooB",
+        "link": "https://youtube.com/watch?v=un4qZLFY6qo&feature=share7",
+        "percent": 100,
+        "hz": 360
+},
+{
+    "user": "Lia",
+    "link": "https://youtu.be/IF9P3C9pPfw",
+    "percent": 100,
+    "hz": 360
+},
+{
+    "user": "ddddr",
+    "link": "https://youtu.be/o0Zmr13pH7Y",
+    "percent": 100,
+    "hz": 360
+},
+{
+    "user": "Lelzi",
+    "link": "https://youtu.be/0jM-TG6qjrU",
+    "percent": 100,
+    "hz": 360
+}
+]
+}

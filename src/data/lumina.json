@@ -1,0 +1,35 @@
+{
+    "id": 89488413,
+    "name": "LUMINA",
+    "author": "hechie",
+    "creators": ["R3XX3R", "VARSE", "hechie", "Ultimxte", "Splinter25", "Z3nithGD", "ThunderDarkness", "kubuwu"],
+    "verifier": "Lia",
+    "verification": "https://youtu.be/ug9mjzRT7Ao",
+    "percentToQualify": 100,
+    "records": [
+    {
+            "user": "Zoink",
+            "link": "https://youtu.be/Q6q8Xc7Wxws",
+            "percent": 100,
+            "hz": 360
+},
+        {
+        "user": "LunarSpark",
+        "link": "https://youtu.be/cTevFsTeS-Y",
+        "percent": 100,
+        "hz": 360
+},
+{
+    "user": "Kova_Neo",
+    "link": "https://youtu.be/FpNDgMv21AU",
+    "percent": 100,
+    "hz": 280
+},
+{
+    "user": "ddddr",
+    "link": "https://youtu.be/zrLD-P-SunQ",
+    "percent": 100,
+    "hz": 360
+}
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 90064781,
+    "name": "Dumbest Girl Alive",
+    "author": "Renn241",
+    "creators": [],
+    "verifier": "Noxiom",
+    "verification": "https://youtu.be/j8gEngrc1bg",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "HotNooB",
+            "link": "https://youtu.be/isqKjIW9Kpg",
+            "percent": 100,
+            "hz": 360
+    },
+    {
+        "user": "yoshi1712",
+        "link": "https://youtu.be/N3at_ZBAqzo",
+        "percent": 100,
+        "hz": 144
+},
+{
+    "user": "ddddr",
+    "link": "https://youtu.be/DCW-HDvznuE",
+    "percent": 100,
+    "hz": 360
+},
+{
+    "user": "Cork",
+    "link": "https://www.youtube.com/watch?v=5ulwyNNk9wE&list=PLL0lLDY-PaAHVDMLfCi6-skVHc-ZcwHfq&index=49",
+    "percent": 100,
+    "hz": 360
+}
+    ]
+}

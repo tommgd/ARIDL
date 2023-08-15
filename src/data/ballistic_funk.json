@@ -1,0 +1,54 @@
+{
+    "id": 63862905,
+    "name": "Ballistic Funk",
+    "author": "IronIngot",
+    "creators": [],
+    "verifier": "Jeller",
+    "verification": "https://www.youtube.com/watch?v=KqM9-PkhrPM&t=104s",
+    "percentToQualify": 100,
+    "password": "636363",
+    "records": [
+        {
+            "user": "LinedriveGD",
+            "link": "https://www.youtube.com/watch?v=XSontPFU9x4",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "Enfur",
+            "link": "https://www.youtube.com/watch?v=WNQsiadmxs8",
+            "percent": 100,
+            "hz": 240
+},
+{
+    "user": "Lia",
+    "link": "https://youtu.be/2SLXKDN6fIM",
+    "percent": 100,
+    "hz": 360
+},
+{
+    "user": "HotNooB",
+    "link": "https://youtu.be/lmbhNVHaeqg",
+    "percent": 100,
+    "hz": 360
+},
+{
+    "user": "ddddr",
+    "link": "https://youtu.be/O15Nv8zJFxw",
+    "percent": 100,
+    "hz": 144
+},
+{
+    "user": "PureDinoMight",
+    "link": "https://www.youtube.com/watch?v=BbcMpqzRyTY&t=55s",
+    "percent": 100,
+    "hz": 120
+},
+{
+    "user": "ultracauaHD",
+    "link": "https://www.youtube.com/watch?v=Rd0N_r_Lf4I",
+    "percent": 100,
+    "hz": 360
+}
+        ]
+        }

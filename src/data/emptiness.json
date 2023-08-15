@@ -1,0 +1,29 @@
+{
+    "id": 71599414,
+    "name": "EMPTINESS",
+    "author": "Arsid",
+    "creators": ["Synd", "Imina", "Keronel", "Emoraled", "Rexonics", "Vinty", "Stotch", "Kwol", "Blockboss", "Tech", "Index", "Redux"],
+    "verifier": "NAILZ",
+    "verification": "https://youtu.be/oXYWITEzZBQ",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "HotNooB",
+            "link": "https://youtu.be/kMb-27R8DNI",
+            "percent": 100,
+            "hz": 360
+    },
+    {
+        "user": "BreadGuyGD",
+        "link": "https://www.youtube.com/watch?v=Qq9Yz7lItgI",
+        "percent": 100,
+        "hz": 240
+},
+{
+    "user": "ddddr",
+    "link": "https://youtu.be/9mrxif9nYF0",
+    "percent": 100,
+    "hz": 288
+}
+    ]
+}

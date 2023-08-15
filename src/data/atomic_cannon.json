@@ -1,0 +1,77 @@
+{
+    "id": 77681476,
+    "name": "ATOMIC CANNON",
+    "author": "Lieb",
+    "creators": [],
+    "verifier": "Zeronium",
+    "verification": "https://www.youtube.com/watch?v=VZS5Yn9Y-OI",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "nei",
+            "link": "https://youtu.be/qgkeU2jtMX8",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "theworldofme",
+            "link": "https://www.youtube.com/watch?v=cDSEvjLeTlE",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "skycrab",
+            "link": "https://youtu.be/8JC4PqM5fSc",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "DJ1482",
+            "link": "https://youtu.be/U0UvgIiiyHs",
+            "percent": 100,
+            "hz": 288
+},
+        {
+            "user": "lumi",
+            "link": "https://youtu.be/wnFl77CwKpQ",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "penpenliddy",
+            "link": "https://youtu.be/UeFsG-3XnMw",
+            "percent": 100,
+            "hz": 300
+},
+        {
+            "user": "zGabriel",
+            "link": "https://youtu.be/kc-1fw5fpSc",
+            "percent": 100,
+            "hz": 330
+},
+        {
+            "user": "Dylinator",
+            "link": "https://youtu.be/MzgFQBUCllk",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "Kopre",
+            "link": "https://youtu.be/tKHmL3pAA60",
+            "percent": 100,
+            "hz": 360
+},
+{
+    "user": "Vink",
+    "link": "https://youtu.be/LDV9GUhqsow",
+    "percent": 100,
+    "hz": 240
+},
+{
+    "user": "HamsterPlayz",
+    "link": "https://www.youtube.com/watch?v=ZaoIXpvOrdA",
+    "percent": 100,
+    "hz": 144
+}
+    ]
+}

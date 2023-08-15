@@ -1,0 +1,47 @@
+{
+    "id": 89976481,
+    "name": "court circuit",
+    "author": "Fafenel",
+    "creators": [],
+    "verifier": "DraxitIII",
+    "verification": "https://www.youtube.com/watch?v=kqhzFWqIAxA",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Blathers",
+            "link": "https://youtu.be/-NzGsd1Ubc4",
+            "percent": 100,
+            "hz": 330
+},
+        {
+            "user": "Detrezo",
+            "link": "https://www.youtube.com/watch?v=I9a1shJumG8&t=2s&ab_channel=Detrezo",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "ddddr",
+            "link": "https://youtu.be/7pCv0cedmAc",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "ultracauaHD",
+            "link": "https://www.youtube.com/watch?v=1RxHdbairuY",
+            "percent": 100,
+            "hz": 360
+},
+{
+    "user": "HotNooB",
+    "link": "https://youtu.be/IdxJN76-WU4",
+    "percent": 100,
+    "hz": 360
+},
+{
+    "user": "Degrazze",
+    "link": "https://youtu.be/u4etgVRFLKQ",
+    "percent": 100,
+    "hz": 288
+}
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "id": 84829178,
+    "name": "Manic Machine",
+    "author": "TwisterDude161",
+    "creators": [],
+    "verifier": "ChloeCutie",
+    "verification": "https://www.youtube.com/watch?v=EfQWT1HP-mI",
+    "percentToQualify": 100,
+    "records": [
+    {
+            "user": "nico27",
+            "link": "https://youtu.be/--t6B59zaXc",
+            "percent": 100,
+            "hz": 120
+},
+        {
+            "user": "taiga",
+            "link": "https://youtu.be/URFCef48ES4",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "NUwUxuz",
+            "link": "https://www.youtube.com/watch?v=VtiNB4xmXm0",
+            "percent": 100,
+            "hz": 288
+},
+        {
+            "user": "TheyCallMeEvan",
+            "link": "https://youtu.be/xdJA-fwJH4k",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "TheZinkYT",
+            "link": "https://www.youtube.com/watch?v=O0aP7-ILLyY",
+            "percent": 100,
+            "hz": 288
+},
+{
+    "user": "Wyse",
+    "link": "https://youtu.be/EV5HvktXNq0",
+    "percent": 100,
+    "hz": 240
+},
+{
+    "user": "HotNooB",
+    "link": "https://youtu.be/MLUbz0nl-8I",
+    "percent": 100,
+    "hz": 360
+},
+{
+    "user": "StarXV",
+    "link": "https://youtu.be/0YZTpqiBJa4",
+    "percent": 100,
+    "hz": 240
+},
+{
+    "user": "WhiteEmerald",
+    "link": "https://www.youtube.com/watch?v=CUXRKYlhpmg",
+    "percent": 100,
+    "hz": 60,
+    "mobile": true
+},
+{
+    "user": "HamsterPlayz",
+    "link": "https://youtu.be/G7DT9hWk8tc",
+    "percent": 100,
+    "hz": 144
+},
+{
+    "user": "ddddr",
+    "link": "https://youtu.be/rpSJ-asdo-o",
+    "percent": 100,
+    "hz": 360
+},
+{
+    "user": "ultracauaHD",
+    "link": "https://www.youtube.com/watch?v=bFDVmEsY7LA",
+    "percent": 100,
+    "hz": 360
+},
+{
+    "user": "Vink",
+    "link": "https://youtu.be/nE4_EE5EDnM",
+    "percent": 100,
+    "hz": 240
+},
+{
+    "user": "MeowMasterer",
+    "link": "https://youtu.be/EBg6PtBQRlg&t=509s",
+    "percent": 100,
+    "hz": 75
+}
+    ]
+}

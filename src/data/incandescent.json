@@ -1,0 +1,41 @@
+{
+    "id": 65125096,
+    "name": "Incandescent",
+    "author": "Kapinapi",
+    "creators": ["Texic", "Mirq", "Buragoz", "Isane", "Unigeny", "Endlevel", "Deadlox", "Asuith", "Sting871", "YoonsrDynamix", "RishiQwik", "Artos", "iLogistics", "ZWK", "Konsi", "RoiMousti", "Temp", "TriTron", "ZirodoX", "Norkbork", "Bionic", "Brittank88", "TuMiTu", "Timelord", "Zafkiel7", "Hypno", "Helpegasus", "ViralDL"],
+    "verifier": "Cewew",
+    "verification": "https://youtu.be/zweIgUiIYPU",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "TheyCallMeEvan",
+            "link": "https://youtu.be/AKPtIR8mNdU",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "LinedriveGD",
+            "link": "https://youtu.be/pEgYGqJ7sZ0",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "Hasik",
+            "link": "https://youtu.be/mHdFdwnTjqY",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "ddddr",
+            "link": "https://youtu.be/cI0VfyWPYvk",
+            "percent": 100,
+            "hz": 144
+},
+        {
+            "user": "Gnamolor",
+            "link": "https://www.youtube.com/watch?v=Sq7h7dqkE9E&t=147s",
+            "percent": 100,
+            "hz": 240
+}
+    ]
+}

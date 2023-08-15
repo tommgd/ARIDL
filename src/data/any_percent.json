@@ -1,0 +1,41 @@
+{
+    "id": 78722357,
+    "name": "any percent",
+    "author": "AWESOMEME360",
+    "creators": ["AWESOMEME360", "Gnam"],
+    "verifier": "AWESOMEME360",
+    "verification": "https://youtu.be/-zu78qYSbNw",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Lia",
+            "link": "https://youtu.be/6yek6IDbRlM",
+            "percent": 100,
+            "hz": 360
+    },
+    {
+        "user": "JustXSoos",
+        "link": "https://www.youtube.com/watch?v=B9d4rYUc4u8",
+        "percent": 100,
+        "hz": 360
+},
+{
+    "user": "Frunk",
+    "link": "https://www.youtube.com/watch?v=Gml6OwymgRI",
+    "percent": 100,
+    "hz": 144
+},
+{
+    "user": "Hbg",
+    "link": "https://youtu.be/0UYFL_xA4dQ",
+    "percent": 100,
+    "hz": 360
+},
+{
+    "user": "HotNooB",
+    "link": "https://youtu.be/zEScWrEpzic",
+    "percent": 100,
+    "hz": 360
+}
+    ]
+}

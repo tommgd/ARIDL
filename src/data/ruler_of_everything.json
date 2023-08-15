@@ -1,0 +1,53 @@
+{
+    "id": 83204544,
+    "name": "Ruler of Everything",
+    "author": "ASBCHazel",
+    "creators": [],
+    "verifier": "Bosonic",
+    "verification": "https://www.youtube.com/watch?v=ZfnaZ2ifhdA",
+    "percentToQualify": 100,
+    "records": [
+    {
+            "user": "Lia",
+            "link": "https://youtu.be/2cExL29mCqA",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "Hbg",
+            "link": "https://youtu.be/du76gMpZ65I",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "Wyse",
+            "link": "https://youtu.be/QKqiDpdwnO0",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "cuin894",
+            "link": "https://youtu.be/CDHb4w-veW4",
+            "percent": 100,
+            "hz": 240
+},
+{
+    "user": "Colizzion",
+    "link": "https://youtu.be/NzBclRN03ic",
+    "percent": 100,
+    "hz": 240
+},
+{
+    "user": "ddddr",
+    "link": "https://youtu.be/gmraeyaV4qI",
+    "percent": 100,
+    "hz": 360
+},
+{
+    "user": "TenOfSpades",
+    "link": "https://www.youtube.com/watch?v=AYDMWZsNMzc",
+    "percent": 100,
+    "hz": 360
+}
+    ]
+}

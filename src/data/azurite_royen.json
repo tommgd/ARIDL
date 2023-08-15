@@ -1,0 +1,89 @@
+{
+    "id": 59533451,
+    "name": "Azurite (royen)",
+    "author": "royen",
+    "creators": [],
+    "verifier": "royen",
+    "verification": "https://www.youtube.com/watch?v=YxGL9_uEI8c",
+    "percentToQualify": 100,
+    "records": [
+    {
+            "user": "GhostPepper",
+            "link": "https://youtu.be/jJFAcPLUxAk",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "Magmeta",
+            "link": "https://www.youtube.com/watch?v=c--Om6yQpMY",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "Lia",
+            "link": "https://youtu.be/NBDPYdklPqE",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "Seic",
+            "link": "https://www.youtube.com/watch?v=2KmKL7Pxv68&t=3s",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "Exomix",
+            "link": "https://www.youtube.com/watch?v=EK_LJJ60vbY",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "Domesz",
+            "link": "https://www.youtube.com/watch?v=r5qS5t5r0Z8",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "mastern",
+            "link": "https://youtu.be/7_aO6q-1bls",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "HotNooB",
+            "link": "https://youtu.be/V2dpUpE7YX4",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "espabeet",
+            "link": "https://youtu.be/9qeN9qLwTGA",
+            "percent": 100,
+            "hz": 360
+},
+{
+    "user": "ddddr",
+    "link": "https://youtu.be/hnqT6y50VzU",
+    "percent": 100,
+    "hz": 360
+},
+{
+    "user": "ultracauaHD",
+    "link": "https://www.youtube.com/watch?v=p1bwRWxvUoc",
+    "percent": 100,
+    "hz": 288
+},
+{
+    "user": "Ranly",
+    "link": "https://youtu.be/ExY2ZLTz5bc",
+    "percent": 100,
+    "hz": 240
+},
+{
+    "user": "Lelzi",
+    "link": "https://youtu.be/1BDs9NPkRBg",
+    "percent": 100,
+    "hz": 360
+}
+    ]
+}

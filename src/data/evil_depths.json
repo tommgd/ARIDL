@@ -1,0 +1,60 @@
+{
+    "id": 88506157,
+    "name": "Evil Depths",
+    "author": "LengthyRat",
+    "creators": ["Shtaba", "LengthyRat", "APstrom", "Peng", "Arachnid", "HD Entique", "PreeZee", "Nekon", "Destriv", "Adrift", "Synage", "Rimexon"],
+    "verifier": "Gokill",
+    "verification": "https://youtu.be/a7lkwIZiVTQ",
+    "percentToQualify": 100,
+    "records": [
+        {
+        "user": "HotNooB",
+        "link": "https://youtu.be/agGXSYQ1u4I",
+        "percent": 100,
+        "hz": 360
+},
+{
+    "user": "Hasik",
+    "link": "https://youtu.be/oYgkKHx51Lw",
+    "percent": 100,
+    "hz": 360
+},
+{
+    "user": "Lia",
+    "link": "https://youtu.be/PZgFUsgSFBk",
+    "percent": 100,
+    "hz": 360
+},
+{
+    "user": "BreadGuyGD",
+    "link": "https://www.youtube.com/watch?v=H1VxN1R2Sxg",
+    "percent": 100,
+    "hz": 240
+},
+{
+    "user": "Zenta",
+    "link": "https://youtu.be/UkKNAZjKgMU",
+    "percent": 100,
+    "hz": 360
+},
+{
+    "user": "MobileBot",
+    "link": "https://youtu.be/0VkH35Zw4jk",
+    "percent": 100,
+    "hz": 360
+},
+{
+    "user": "ddddr",
+    "link": "https://youtu.be/x1nID-km2CM",
+    "percent": 100,
+    "hz": 360
+},
+
+{
+    "user": "NiceCrunchy",
+    "link": "https://www.youtube.com/watch?v=9ct_efBlBbk",
+    "percent": 100,
+    "hz": 360
+}
+    ]
+}

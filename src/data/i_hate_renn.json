@@ -1,0 +1,49 @@
+
+{
+    "id": 91204586,
+    "name": "i hate renn",
+    "author": "Renn241",
+    "creators": [],
+    "verifier": "Skzyl",
+    "verification": "https://youtu.be/MQRpK0nKfxc",
+    "percentToQualify": 100,
+    "password": "841631",
+    "records": [
+        {
+            "user": "Lia",
+            "link": "https://youtu.be/1Ului0GMl08",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "SkeletalVirus",
+            "link": "https://youtu.be/PJK2H6xq6Ic",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "Didjimon",
+            "link": "https://youtu.be/3S2umktqaKE",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "ultracauaHD",
+            "link": "https://www.youtube.com/watch?v=tSXACMrwFHQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "iiLogan",
+            "link": "https://youtu.be/NW2ADG7kcNQ",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "Lelzi",
+            "link": "https://youtu.be/RKend6emK3Y",
+            "percent": 100,
+            "hz": 360
+}
+    ]
+}

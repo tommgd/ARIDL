@@ -1,0 +1,47 @@
+{
+    "id": 88660668,
+    "name": "EX",
+    "author": "MrSpaghetti",
+    "creators": ["ILRELL", "EnZore", "Sequex", "Vulna", "Arachnus", "GeoGamer12", "Sminx", "Reunomi", "NASHII", "Cryst4l", "Alchery", "Old Space", "Miguel135", "Odyssey", "iZapper", "CastriX", "Nyctonium", "Penttagram", "Xender Game", "Amora007", "Cdpre", "LViper"],
+    "verifier": "MrSpaghetti",
+    "verification": "https://www.youtube.com/watch?v=-TDNhsxYxUc",
+    "percentToQualify": 100,
+    "records": [
+    {
+            "user": "Gecko",
+            "link": "https://youtu.be/Ojc33gNE9BA",
+            "percent": 100,
+            "hz": 240
+},
+        {
+            "user": "nei",
+            "link": "https://youtu.be/V_zcYK7ggB8",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "Simolater",
+            "link": "https://www.youtube.com/watch?v=2OcBn4uqf-I",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "ddddr",
+            "link": "https://youtu.be/irfcwT8Cjeg",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "ultracauaHD",
+            "link": "https://www.youtube.com/watch?v=0Kg-039231o",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "Bram4Real",
+            "link": "https://youtu.be/HqYDj2UAdko",
+            "percent": 100,
+            "hz": 120
+}
+    ]
+}

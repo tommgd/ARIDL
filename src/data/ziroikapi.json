@@ -1,0 +1,35 @@
+{
+    "id": 56827411,
+    "name": "Ziroikapi",
+    "author": "Kapinapi",
+    "creators": ["Davphla", "HelpegasuS", "MrSpaghetti", "RoiMousti", "Kapinapi", "Supris", "ZWK", "Kubson", "Atom9", "ItsHybrid", "ViralDl"],
+    "verifier": "Kapinapi",
+    "verification": "https://www.youtube.com/watch?v=BopdvP_-7wI",
+    "percentToQualify": 100,
+    "records": [
+    {
+            "user": "ItzElectrix",
+            "link": "https://youtu.be/XpIRaWTtYfI",
+            "percent": 100,
+            "hz": 360
+},
+        {
+            "user": "lumi",
+            "link": "https://youtu.be/B7gjGmsQLug",
+            "percent": 100,
+            "hz": 240
+},
+{
+    "user": "ddddr",
+    "link": "https://youtu.be/-FL3z46Zwug",
+    "percent": 100,
+    "hz": 288
+},
+{
+    "user": "Vink",
+    "link": "https://youtu.be/1wVsEDCbMHM",
+    "percent": 100,
+    "hz": 120
+}
+    ]
+}
