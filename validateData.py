@@ -1,7 +1,7 @@
 import os
 import json
 
-def findDuplicates():
+def validateData():
     current_dir = os.path.join(os.getcwd(), "data")
     list_path = os.path.join(current_dir, "_list.json")
     levels = []
@@ -25,4 +25,4 @@ def findDuplicates():
                 names.append(name)
 
 if __name__ == "__main__":
-    findDuplicates()
+    validateData()
