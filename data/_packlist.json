@@ -1,0 +1,20 @@
+[
+    {   
+        "name": "Top 1 Pack",
+        "levels": [
+            "manix",
+            "in_canon",
+            "reverie",
+            "fishe",
+        ],
+        "colour": "url('https://media.discordapp.net/attachments/958386446761336882/1130560422915874846/image.png?width=912&height=312')"
+    },
+    {
+        "name": "Vortex Series",
+        "levels": [
+            "aimbotter_force",
+            "dragonlocked",
+            "corrosion_killa"
+        ],
+        "colour": "linear-gradient(45deg, rgba(136,0,255,1) 0%, rgba(239,0,255,1) 50%, rgba(255,192,250,1) 100%)"
+    }
